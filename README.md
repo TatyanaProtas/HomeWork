@@ -7,6 +7,7 @@
 Сделайте скриншот с названием 1_protocol.jpg, по которому станет понятно, как вы определили протокол сайта.
 
 <kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/1_protocol.jpg?raw=true"/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/2_protocol.jpg?raw=true"/></kbd>
 _____
 
 2. Создайте файл 2_analyze.txt, в котором проанализируйте структуру страницы сайта https://ru.wikipedia.org/ (опишите коротко, своими словами), а именно:
