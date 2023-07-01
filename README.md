@@ -67,12 +67,12 @@ _____
 1. Необходимо пользователя попросить ввести температуру в градусах Цельсия, преобразовать введенное пользователем значение в соответствующую температуру в градусах по Фаренгейту и вывести в alert сообщение с текстом (пример): Цельсий: 21, Фаренгейт: 69.8 Советую округлить значение после рассчетов, так как в некоторых случаях может получиться "длинная дробь".
 
 [решение](https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/1.js)
-<kbd><img src=""/></kbd>
-<kbd><img src=""/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/температура.png?raw=true"/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/результат.png?raw=true"/></kbd>
 ___
 
 2. Cоздать функцию greeting, которая принимает имя и выводит приветствие, используя переданное имя, в консоль. Необходимо у пользователя запросить имя и вызвать функцию greeting, передав туда данное значение.
 
 [решение](https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/2.js)
-<kbd><img src=""/></kbd>
-<kbd><img src=""/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/имя.png?raw=true"/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/HomeWork/blob/main/Урок%203/приветИмя.png?raw=true"/></kbd>
